@@ -11,7 +11,7 @@ Download the files and run npm i. From there, run npm start and go to your local
 
 ## Screenshot
 
-![Screenshot](https://github.com/llting592/JATE-Text-Editor-fixed-/blob/main/Assets/demo.png
+[!Screenshot](https://github.com/llting592/JATE-Text-Editor-fixed-/blob/main/Assets/demo.png
 
 ## Demo
 [Deployed link](https://powerful-tundra-80611.herokuapp.com/)
